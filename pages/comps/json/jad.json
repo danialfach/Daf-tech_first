@@ -1,0 +1,50 @@
+[
+  {
+    "day": "senin",
+    "jadwal1": "turu",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  },
+  {
+    "day": "selasa",
+    "jadwal1": "turu",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  },
+  {
+    "day": "rabu",
+    "jadwal1": "turu",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  },
+  {
+    "day": "kamis",
+    "jadwal1": "turu",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  },
+  {
+    "day": "jumat",
+    "jadwal1": "sholat",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  },
+  {
+    "day": "sabtu",
+    "jadwal1": "turu",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  },
+  {
+    "day": "minggu",
+    "jadwal1": "turu",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  },
+  {
+    "day": "random",
+    "jadwal1": "turu",
+    "jadwal2": "turu",
+    "jadwal3": "turu"
+  }
+]
